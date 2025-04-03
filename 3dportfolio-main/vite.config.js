@@ -7,5 +7,5 @@ export default defineConfig({
   commonjsOptions: {
     esmExternals: true,
   },
-  base: "/nourhene/amdouni/",
+  base: "./",
 });
